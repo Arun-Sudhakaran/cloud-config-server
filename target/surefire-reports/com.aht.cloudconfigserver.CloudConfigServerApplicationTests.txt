@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.aht.cloudconfigserver.CloudConfigServerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.501 s - in com.aht.cloudconfigserver.CloudConfigServerApplicationTests
